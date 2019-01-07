@@ -13,4 +13,4 @@ Construct a portfolio of 100K USD with 90% equities and 10% cash. Will construct
 * We will use data from 01st May, 2018 - 31st August, 2018 to training our model, and use the remaining period 01st September -07th October, 2018 as test period.
 
 ### Please open Portfolio_Optimization.ipynb or Portfolio_Optimization.html to view code written in Python and results.
-### Please open xxxx to view code in R to solve a different problem.
+### Please open Portfolio_Optimization.R to view code in R to solve a different problem.
